@@ -1,27 +1,27 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+# Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Open science and single-case research"
-event: "Teacher Educators for Children with Behavior Disorders"
+title: "Examining and addressing potential sources of bias in single-case design research"
+event: "Council for Exceptional Children Annual Conference"
 event_url:
-location: "Tempe, AZ"
+location: "Portland, OR"
 address:
   street:
   city:
   region:
   postcode:
   country:
-summary: "As part of the Shores Strand at TECBD, this talk discussed major issues relating to the application of preregistration to single-case design."
+summary:
 abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2019-10-25T16:00:00-08:00
-#date_end: 2019-12-22T14:59:42-08:00
+date: 2020-02-07T13:30:00-05:00
+#date_end: 2020-11-27T08:16:20-08:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2019-12-22T14:59:42-08:00
+# publishDate: 2020-11-27T08:16:20-08:00
 
 authors: []
 tags: []
@@ -46,7 +46,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides: https://osf.io/zyq8a/
+url_slides:
 
 url_code:
 url_pdf:

@@ -1,5 +1,5 @@
 ---
-title: "A Legacy of Relationships: Strategies for Supporting Positive Behavior for All"
+title: "A legacy of relationships: Strategies for supporting positive behavior for all"
 date: 2018-11-26T16:29:42-08:00  # Schedule page publish date.
 
 # Talk start and end times.

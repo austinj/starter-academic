@@ -69,6 +69,10 @@ user_groups:
 - Admins
 ---
 
+{{% callout note %}}
+For more information on [JABA's decision](https://doi.org/10.1002/jaba.768) to not retract Rekers and Lovaas (1974), click [here](https://edarxiv.org/w96u5/) for a critical preprint, [here](https://anchor.fm/beautiful-humans/episodes/Ep-30-Retract-Rekers-and-Lovaas1974-with-Dr--Austin-Johnson-emtvna) for a relevant Beautiful Humans podcast, and [here](https://www.change.org/p/dr-linda-leblanc-and-the-society-for-the-experimental-analysis-of-behavior-make-no-mistake-a-call-for-the-official-retraction-of-rekers-lovaas-1974) for a change.org petition.
+{{% /callout %}}
+
 As an Assistant Professor at the University of California, Riverside, I serve as the Program Director of our APA-accredited and NASP-approved <a href="https://education.ucr.edu/school-psychology">School Psychology program</a>. I received my PhD in Educational Psychology (with a concentration in School Psychology) from the University of Connecticut in 2014. Back in 2007, I graduated summa cum laude with my Bachelor's in Psychology from the University of Arizona. After serving as a Postdoctoral Research Fellow and Project Manager with the IES-funded <a href="http://needs2.education.uconn.edu/">NEEDs2 project</a> from 2014-2015, I joined the Graduate School of Education at the University of California, Riverside. At UCR, I teach undergraduate- and graduate-level courses in behavior assessment and intervention, research, and methodology. I'm a <a href="https://firstgen.ucr.edu/">first-generation college graduate</a>. I really like my job.
 
 I'm an Associate Editor for the Journal of School Psychology, as well as a licensed psychologist in the state of California (CA #29540) and a Board Certified Behavior Analyst (Certification #1-15-18892).

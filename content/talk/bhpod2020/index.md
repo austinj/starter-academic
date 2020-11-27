@@ -1,27 +1,27 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+# Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Open science and single-case research"
-event: "Teacher Educators for Children with Behavior Disorders"
+title: "Interview with Beautiful Humans: The Social ChangeCast. Ep 30: Retract Rekers and Lovaas (1974) with Dr. Austin Johnson"
+event: "Beautiful Humans: The Social ChangeCast"
 event_url:
-location: "Tempe, AZ"
+location:
 address:
   street:
   city:
   region:
   postcode:
   country:
-summary: "As part of the Shores Strand at TECBD, this talk discussed major issues relating to the application of preregistration to single-case design."
+summary:
 abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2019-10-25T16:00:00-08:00
-#date_end: 2019-12-22T14:59:42-08:00
+date: 2020-11-24T08:00:00-08:00
+#date_end: 2020-11-27T08:31:48-08:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2019-12-22T14:59:42-08:00
+publishDate: 2020-11-27T08:31:48-08:00
 
 authors: []
 tags: []
@@ -39,14 +39,12 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+- name: Podcast
+  url: https://anchor.fm/beautiful-humans/episodes/Ep-30-Retract-Rekers-and- Lovaas1974-with-Dr–Austin-Johnson-emtvna
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides: https://osf.io/zyq8a/
+url_slides:
 
 url_code:
 url_pdf:

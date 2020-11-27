@@ -1,5 +1,5 @@
 ---
-title: "Special Educator Research Utilization: Bridging the Gap"
+title: "Special educator research utilization: Bridging the gap"
 date: 2018-11-26T16:29:29-08:00  # Schedule page publish date.
 
 # Talk start and end times.

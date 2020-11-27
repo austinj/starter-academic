@@ -1,5 +1,5 @@
 ---
-title: "Why Education? Social justice, student behavior, and doing what works"
+title: "Why education? Social justice, student behavior, and doing what works"
 date: 2018-11-26T16:29:59-08:00  # Schedule page publish date.
 
 # Talk start and end times.

@@ -1,5 +1,5 @@
 ---
-title: "Developing Usable and Effective Behavior Intervention Plans"
+title: "Developing usable and effective Behavior Intervention Plans"
 date: 2018-11-26T16:29:40-08:00  # Schedule page publish date.
 
 # Talk start and end times.
