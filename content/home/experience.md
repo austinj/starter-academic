@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 2  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -17,28 +17,32 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
+  title = "Assistant Professor"
+  company = "University of California, Riverside"
+  company_url = "http://www.ucr.edu"
   location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_start = "2015-06-01"
+  date_end = ""
+  description = ""
+
+[[experience]]
+  title = "Postdoctoral Research Fellow"
+  company = "University of Connecticut"
+  company_url = "http://www.uconn.edu"
+  location = "Connecticut"
+  date_start = "2014-05-30"
+  date_end = "2015-05-30"
+  description = ""
+
+[[experience]]
+  title = "Doctoral Student"
+  company = "University of Connecticut"
+  company_url = "http://www.uconn.edu"
+  location = "Connecticut"
+  date_start = "2014-01-01"
+  date_end = "2009-01-01"
+  description = ""
 
 +++
