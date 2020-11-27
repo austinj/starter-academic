@@ -14,7 +14,7 @@ tags:
 - '"article"'
 categories: []
 date: '2012-01-01'
-lastmod: 2020-11-26T17:34:54-08:00
+lastmod: 2020-11-27T11:34:32-08:00
 featured: false
 draft: false
 
@@ -32,10 +32,22 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-27T01:34:54.125334Z'
+publishDate: '2020-11-27T19:34:32.201303Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: Although widely recommended, evidence‐based interventions are not regularly
+  utilized by school practitioners. Video self‐modeling is an effective and efficient
+  evidence‐based intervention for a variety of student problem behaviors. However,
+  like many other evidence‐based interventions, it is not frequently used in schools.
+  As video creation technology becomes increasingly accessible, school psychologists
+  are better able to incorporate video self‐modeling into their practice. Built on
+  a comprehensive review, this article describes the procedures for implementing a
+  video self‐modeling intervention in educational settings. Video self‐modeling procedures
+  described herein include (a) deciding whether video self‐modeling is an appropriate
+  intervention for a situation, (b) planning for and preparing video self‐modeling
+  procedures, (c) videotaping, (d) editing the video, (e) presenting the video, and
+  (f) using video self‐modeling with other behavioral techniques. Additionally, further
+  resources are offered.
 publication: '*Psychology in the Schools*'
 doi: 10.1002/pits.20614
 ---

@@ -15,7 +15,7 @@ tags:
 - '"article"'
 categories: []
 date: '2017-01-01'
-lastmod: 2020-11-26T17:34:55-08:00
+lastmod: 2020-11-27T11:34:33-08:00
 featured: false
 draft: false
 
@@ -33,10 +33,23 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-27T01:34:55.242249Z'
+publishDate: '2020-11-27T19:34:33.382104Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: This systematic review investigated one systematic approach to designing,
+  implementing, and evaluating functional assessment--based interventions (FABI) for
+  use in supporting school-age students with or at-risk for high-incidence disabilities.
+  We field tested several recently developed methods for single-case design syntheses.
+  First, we appraised the quality of individual studies and the overall body of work
+  using Council for Exceptional Children's standards. Next, we calculated and meta-analyzed
+  within-case and between-case effect sizes. Results indicated that studies were of
+  high methodological quality, with nine studies identified as being methodologically
+  sound and demonstrating positive outcomes across 14 participants. However, insufficient
+  evidence was available to classify the evidence base for FABIs due to small number
+  of participants within (fewer than recommended three) and across (fewer than recommended
+  20) studies. Nonetheless, average within-case effect sizes were equivalent to increases
+  of 118% between baseline and intervention phases. Finally, potential moderating
+  variables were examined. Limitations and future directions are discussed.
 publication: '*Remedial and Special Education*'
 doi: 10.1177/0741932517693320
 ---

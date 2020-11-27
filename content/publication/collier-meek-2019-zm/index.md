@@ -12,7 +12,7 @@ tags:
 - '"article"'
 categories: []
 date: '2019-12-01'
-lastmod: 2020-11-26T17:34:55-08:00
+lastmod: 2020-11-27T11:34:33-08:00
 featured: false
 draft: false
 
@@ -30,10 +30,24 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-27T01:34:54.964246Z'
+publishDate: '2020-11-27T19:34:33.088408Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: Many teachers struggle to deliver interventions with sufficient treatment
+  integrity, perhaps due to implementation variables that mediate or moderate treatment
+  integrity. Potential implementation variables have frequently been conceptualized
+  in ecological frameworks, including the intervention, implementer, organization,
+  and external environmental levels. Although the ecological framework is a useful
+  organizational tool, a measure aligned with this model of implementation variables
+  has not yet been developed. This article describes the development of the Assessment
+  of Ecological Implementation Influences (AEII), a measure to evaluate implementation
+  variables across ecological levels. Exploratory factor analyses were conducted to
+  evaluate to what extent responses on the AEII reflect the hypothesized ecological
+  factor structure. The model of variables from the intervention to external environment
+  level was not reflected within the factor structure here. Rather, factors emerged
+  that were not previously accounted for in the implementation variables literature.
+  Implications for future research on the measurement of treatment integrity and implementation
+  variables are described.
 publication: '*Assessment for Effective Intervention*'
 doi: 10.1177/1534508418777848
 ---

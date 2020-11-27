@@ -13,7 +13,7 @@ tags:
 - '"article"'
 categories: []
 date: '2016-04-01'
-lastmod: 2020-11-26T17:34:56-08:00
+lastmod: 2020-11-27T11:34:35-08:00
 featured: false
 draft: false
 
@@ -31,10 +31,21 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-27T01:34:56.645460Z'
+publishDate: '2020-11-27T19:34:34.934197Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: Generalizability Theory (GT) offers several advantages relevant to educational
+  contexts, including the fact that it can be used to estimate multiple sources of
+  variance (e.g., raters, forms) simultaneously and to derive coefficients for the
+  purposes of both relative and absolute decision making. Although GT has been increasingly
+  applied in recent years to assessment data in K--12 school settings, analysis and
+  critique of its application has not yet taken place. The goals of the current article
+  were therefore to (1) undertake a systematic review of the school-based assessment
+  literature in order to identify relevant applications of this statistical framework
+  and (2) assess the degree of consistency between methodological recommendations
+  for use of GT and reporting practices within this literature. In addition to describing
+  the current state of this literature, suggestions for strengthening future applications
+  are provided.
 publication: '*Applied Measurement in Education*'
 doi: 10.1080/08957347.2016.1138955
 ---

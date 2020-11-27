@@ -15,7 +15,7 @@ tags:
 - '"article"'
 categories: []
 date: '2012-10-01'
-lastmod: 2020-11-26T17:34:53-08:00
+lastmod: 2020-11-27T11:34:32-08:00
 featured: false
 draft: false
 
@@ -33,10 +33,23 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-27T01:34:53.843844Z'
+publishDate: '2020-11-27T19:34:31.905696Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: The purpose of this review was to synthesize the research underlying group
+  contingency interventions to determine whether there is sufficient evidence to support
+  their use for managing the classroom behavior of students with behavioral difficulties.
+  An application of the What Works Clearinghouse (WWC) procedures for evaluating single-subject
+  research revealed that the research investigating group contingencies demonstrated
+  sufficient rigor, evidence, and replication to label the intervention as evidence-based.
+  These findings were further supported across five quantitative indices of treatment
+  effect. The results associated with the application of the WWC procedures and quantitative
+  evaluations were supplemented with additional systematic coding of methodological
+  features and study characteristics to evaluate the populations and conditions under
+  which the effects of the group contingency best generalize. Findings associated
+  with this coding revealed that the lack of detailed reporting across studies limited
+  our ability to determine for whom and under what conditions group contingencies
+  are best suited.
 publication: '*Journal of School Psychology*'
 doi: 10.1016/j.jsp.2012.06.001
 ---

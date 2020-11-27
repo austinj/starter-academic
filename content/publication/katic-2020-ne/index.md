@@ -13,7 +13,7 @@ tags:
 - '"article"'
 categories: []
 date: '2020-06-01'
-lastmod: 2020-11-26T17:34:53-08:00
+lastmod: 2020-11-27T11:34:31-08:00
 featured: false
 draft: false
 
@@ -31,10 +31,19 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-27T01:34:53.561297Z'
+publishDate: '2020-11-27T19:34:31.616827Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: Despite its increasing recognition and use in U.S. schools, a limited amount
+  of research has evaluated the effect of restorative justice (RJ) for school violence
+  prevention and response. To date, there is no standardized method for RJ implementation.
+  Therefore, this systematic literature review investigates peer-reviewed studies
+  on the application of RJ practices in K-12 school settings. Ten articles were included
+  in the review. Results of the review indicate a high degree of variability regarding
+  the implementation and evaluation of RJ practices in schools. However, the majority
+  of studies reported positive outcomes, including improved social relationships and
+  reductions in office discipline referrals. The utility of RJ as a school violence
+  prevention and intervention approach are discussed, along with future research directions.
 publication: '*Journal of School Violence*'
 doi: 10.1080/15388220.2020.1783670
 ---

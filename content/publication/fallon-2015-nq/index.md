@@ -15,7 +15,7 @@ tags:
 - '"article"'
 categories: []
 date: '2015-01-01'
-lastmod: 2020-11-26T17:34:55-08:00
+lastmod: 2020-11-27T11:34:34-08:00
 featured: false
 draft: false
 
@@ -33,10 +33,21 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-27T01:34:55.662869Z'
+publishDate: '2020-11-27T19:34:33.884506Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: Optimal levels of treatment fidelity, a critical moderator of intervention
+  effectiveness, are often difficult to sustain in applied settings. It is unknown
+  whether performance feedback, a widely researched method for increasing educators'
+  treatment fidelity, is an evidence-based practice. The purpose of this review was
+  to evaluate the current research on performance feedback as a strategy to promote
+  the implementation of school-based practices. Studies were evaluated according to
+  What Works Clearinghouse (WWC; Kratochwill et al., 2010) technical guidelines for
+  single-case design, utilizing both the design and evidence standards to determine
+  whether studies provided sufficient evidence for the effectiveness of performance
+  feedback. Results indicate that performance feedback can be termed an evidence-based
+  intervention based on criteria set by the WWC. Implications for future research
+  are described.
 publication: '*Exceptional Children*'
 doi: 10.1177/0014402914551738
 ---

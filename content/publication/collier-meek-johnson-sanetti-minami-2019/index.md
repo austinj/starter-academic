@@ -13,7 +13,7 @@ tags:
 - '"article"'
 categories: []
 date: '2019-01-01'
-lastmod: 2020-11-26T17:34:55-08:00
+lastmod: 2020-11-27T11:34:33-08:00
 featured: false
 draft: false
 
@@ -31,10 +31,21 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-27T01:34:55.523375Z'
+publishDate: '2020-11-27T19:34:33.715267Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: Research suggests that class-wide academic engagement can be improved by
+  research-based classroom management. However, teachers struggle to implement classroom
+  management consistently and may need ongoing support. Identifying critical components
+  of classroom management could help illuminate mechanisms of action and streamline
+  teacher implementation while achieving the same positive student outcomes. This
+  exploratory study evaluates the relative contributions of teachers' implementation
+  of 14 best practice classroom management strategies on class-wide academic engagement.
+  Findings suggest that frequent references to the schedule and routines, behavior-specific
+  praise, and low rates of error correction are significantly related to high rates
+  of class-wide academic engagement. We highlight implications for researchers interested
+  in classroom management and its core components as well as school psychologists
+  providing classroom management support to teachers.
 publication: '*School Psychology Review*'
 doi: 10.17105/SPR-2018-0026.V48-4
 ---

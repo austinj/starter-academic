@@ -13,7 +13,7 @@ tags:
 - '"article"'
 categories: []
 date: '2011-01-01'
-lastmod: 2020-11-26T17:34:53-08:00
+lastmod: 2020-11-27T11:34:31-08:00
 featured: false
 draft: false
 
@@ -31,10 +31,20 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-27T01:34:53.395310Z'
+publishDate: '2020-11-27T19:34:31.473698Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: The purpose of this review was to examine the methods used to conduct meta-analyses
+  of single-subject research involving students with and at-risk for disabilities.
+  Specifically, the procedures used for preparing, aggregating, analyzing, and evaluating
+  single-subject data across 68 primary syntheses were examined. In addition to these
+  methodological and reporting issues, the present review also considered various
+  characteristics of syntheses to determine their overall prevalence and focus. Results
+  of the review indicated that the publication rate of single-subject meta-analyses
+  has increased considerably in recent years, focusing equally on students with high-
+  and low-incidence disabilities. This review revealed considerable variability in
+  the methods and procedures used to synthesize single-subject research. Based on
+  these findings, suggestions for future single-subject meta-analyses were made.
 publication: '*Exceptionality*'
 doi: 10.1080/09362835.2011.565725
 ---

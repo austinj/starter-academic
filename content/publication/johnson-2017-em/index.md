@@ -13,7 +13,7 @@ tags:
 - '"article"'
 categories: []
 date: '2017-03-01'
-lastmod: 2020-11-26T17:34:54-08:00
+lastmod: 2020-11-27T11:34:32-08:00
 featured: true
 draft: false
 
@@ -31,10 +31,24 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-27T01:34:54.403033Z'
+publishDate: '2020-11-27T19:34:32.505429Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: In this study, generalizability theory was used to examine the extent to
+  which (a) time-sampling methodology, (b) number of simultaneous behavior targets,
+  and (c) individual raters influenced variance in ratings of academic engagement
+  for an elementary-aged student. Ten graduate-student raters, with an average of
+  7.20 hr of previous training in systematic direct observation and 58.20 hr of previous
+  direct observation experience, scored 6 videos of student behavior using 12 different
+  time-sampling protocols. Five videos were submitted for analysis, and results for
+  observations using momentary time-sampling and whole-interval recording suggested
+  that the majority of variance was attributable to the rating occasion, although
+  results for partial-interval recording generally demonstrated large residual components
+  comparable with those seen in prior research. Dependability coefficients were above
+  .80 when averaging across 1 to 2 raters using momentary time-sampling, and 2 to
+  3 raters using whole-interval recording. Ratings derived from partial-interval recording
+  needed to be averaged over 3 to 7 raters to demonstrate dependability coefficients
+  above .80.
 publication: '*School Psychology*'
 doi: 10.1037/spq0000159
 ---

@@ -16,7 +16,7 @@ tags:
 - '"article"'
 categories: []
 date: '2016-02-01'
-lastmod: 2020-11-26T17:34:55-08:00
+lastmod: 2020-11-27T11:34:33-08:00
 featured: true
 draft: false
 
@@ -34,10 +34,28 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-27T01:34:55.105617Z'
+publishDate: '2020-11-27T19:34:33.229481Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: "The implementation of multi-tiered systems in schools necessitates the\
+  \ use of screening assessments which produce valid and reliable data to identify\
+  \ students in need of tiered supports. Data derived from these screening assessments\
+  \ may be evaluated according to their classification accuracy, or the degree to\
+  \ which cut scores correctly identify individuals as at-risk or not-at-risk.\
+  \ The current study examined the performance of mean scores derived from over 1700\
+  \ students in Grades 1, 2, 4, 5, 7, and 8 using Direct Behavior Rating---Single\
+  \ Item Scales. Students were rated across three time points (Fall, Winter, Spring)\
+  \ by their teachers in three areas: (a) academically engaged behavior, (b) disruptive\
+  \ behavior, and (c) respectful behavior. Classification accuracy indices and comparisons\
+  \ among behaviors were derived using Receiver Operating Characteristic (ROC) curve\
+  \ analyses, partial area under the curve (pAUC) tests, and bootstrapping methods\
+  \ to evaluate the degree to which mean behavior ratings accurately identified students\
+  \ who demonstrated elevated behavioral symptomology on the Behavioral and Emotional\
+  \ Screening System. Results indicated that optimal cut-scores for mean behavior\
+  \ ratings and a composite rating demonstrated high levels of specificity, sensitivity,\
+  \ and negative predictive value, with sensitivity point estimates for optimal cut-scores\
+  \ exceeding .70 for individual behaviors and .75 for composite scores across grade\
+  \ groups and time points."
 publication: '*Journal of School Psychology*'
 doi: 10.1016/j.jsp.2015.10.001
 ---

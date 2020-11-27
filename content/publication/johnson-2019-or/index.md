@@ -14,8 +14,8 @@ tags:
 - '"article"'
 categories: []
 date: '2020-01-01'
-lastmod: 2020-11-26T17:34:54-08:00
-featured: true
+lastmod: 2020-11-27T11:34:32-08:00
+featured: false
 draft: false
 
 # Featured image
@@ -32,10 +32,22 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-27T01:34:54.543207Z'
+publishDate: '2020-11-27T19:34:32.657879Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: School-based teams are a core method for stakeholder collaboration and coordination.
+  Although school teams are responsible for making numerous decisions, a limited number
+  of measures exist to support the evaluation of these meetings, none of which span
+  the full range of hypothesized meeting quality variables (e.g., meeting structure,
+  use of data). In response, an instrument was developed and evaluated for measuring
+  perceptions of team meetings by school-based personnel. After expert content validation
+  and cognitive pretesting took place, 277 respondents completed the 46-item measure
+  in its entirety. Respondents were mostly female (n = 164, 59%) and taught general
+  education (n = 111, 40%). Results from an Exploratory Factor Analysis suggested
+  that, contrary to the hypothesized model, respondents completed the measure in a
+  manner that suggested a three-factor solution consisting of Goals and Data, Facilitator
+  Effectiveness, and Interpersonal Perception. A smaller set of broader constructs
+  may be more appropriate for future instrumentation.
 publication: '*Journal of Educational and Psychological Consultation*'
 doi: 10.1080/10474412.2019.1629945
 ---
