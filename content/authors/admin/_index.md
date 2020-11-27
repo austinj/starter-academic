@@ -50,11 +50,12 @@ social:
 - icon: osf
   icon_pack: ai
   link: https://osf.io/wp2u4/
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: https://drive.google.com/file/d/1AsW1Iw0VngBHOtBb8FpGzf2UUVJYVjjB/view?usp=sharing
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -72,4 +73,4 @@ As an Assistant Professor at the University of California, Riverside, I serve as
 
 I'm an Associate Editor for the Journal of School Psychology, as well as a licensed psychologist in the state of California (CA #29540) and a Board Certified Behavior Analyst (Certification #1-15-18892).
 
-You can request copies of articles through <a href="https://www.researchgate.net/profile/Austin_Johnson2">ResearchGate</a>, view citations and such on <a href="https://scholar.google.com/citations?user=XQ7qJWwAAAAJ&amp;hl=en">Google Scholar</a>, and download data and project materials from <a href="https://osf.io/wp2u4/">Open Science Framework</a>. My CV is available on my <a href="https://profiles.ucr.edu/app/home/profile/austinj">UCR Faculty Webpage</a>.
+You can request copies of articles through <a href="https://www.researchgate.net/profile/Austin_Johnson2">ResearchGate</a>, view citations and such on <a href="https://scholar.google.com/citations?user=XQ7qJWwAAAAJ&amp;hl=en">Google Scholar</a>, and download data and project materials from <a href="https://osf.io/wp2u4/">Open Science Framework</a>.
