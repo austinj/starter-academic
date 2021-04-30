@@ -46,7 +46,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides: https://drive.google.com/file/d/1-3lTKYh6odkMAjSN9A0E7xl7T-XNvdSm/view?usp=sharing
+url_slides: 
 
 url_code:
 url_pdf:
