@@ -6,7 +6,7 @@ title: Austin Johnson
 superuser: true
 
 # Role/position
-role: Assistant Professor and Program Director, School Psychology
+role: Associate Professor and Program Director, School Psychology
 
 # Organizations/Affiliations
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: "https://www.ucr.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Austin Johnson is an Assistant Professor in the Graduate School of Education at the University of California, Riverside.
+bio: Austin Johnson is an Associate Professor in the Graduate School of Education at the University of California, Riverside.
 
 interests:
 - Evidence-Based Behavior Support
@@ -70,11 +70,11 @@ user_groups:
 ---
 
 {{% callout note %}}
-For more information on [JABA's decision](https://doi.org/10.1002/jaba.768) to not retract Rekers and Lovaas (1974), click [here](https://edarxiv.org/w96u5/) for a critical preprint, [here](https://anchor.fm/beautiful-humans/episodes/Ep-30-Retract-Rekers-and-Lovaas1974-with-Dr--Austin-Johnson-emtvna) for a relevant Beautiful Humans podcast, and [here](https://www.change.org/p/dr-linda-leblanc-and-the-society-for-the-experimental-analysis-of-behavior-make-no-mistake-a-call-for-the-official-retraction-of-rekers-lovaas-1974) for a change.org petition. I'll be presenting on Rekers and Lovaas (1974) at [ABAI 2021](https://www.abainternational.org/events/annual/annual2021/convention-home.aspx). 
+For more information on [JABA's decision](https://doi.org/10.1002/jaba.768) to not retract Rekers and Lovaas (1974), check out [Retract Hate](https:/www.retracthate.com), click [here](https://edarxiv.org/w96u5/) for a critical preprint, [here](https://anchor.fm/beautiful-humans/episodes/Ep-30-Retract-Rekers-and-Lovaas1974-with-Dr--Austin-Johnson-emtvna) for a relevant Beautiful Humans podcast, and [here](https://www.change.org/p/dr-linda-leblanc-and-the-society-for-the-experimental-analysis-of-behavior-make-no-mistake-a-call-for-the-official-retraction-of-rekers-lovaas-1974) for a change.org petition. I presented on Rekers and Lovaas (1974) at [ABAI 2021](https://www.abainternational.org/events/annual/annual2021/convention-home.aspx).
 {{% /callout %}}
 
-As an Assistant Professor at the University of California, Riverside, I serve as the Program Director of our APA-accredited and NASP-approved <a href="https://education.ucr.edu/school-psychology">School Psychology program</a>. I received my PhD in Educational Psychology (with a concentration in School Psychology) from the University of Connecticut in 2014. Back in 2007, I graduated summa cum laude with my Bachelor's in Psychology from the University of Arizona. After serving as a Postdoctoral Research Fellow and Project Manager with the IES-funded <a href="http://needs2.education.uconn.edu/">NEEDs2 project</a> from 2014-2015, I joined the Graduate School of Education at the University of California, Riverside. At UCR, I teach undergraduate- and graduate-level courses in behavior assessment and intervention, research, and methodology. I'm a <a href="https://firstgen.ucr.edu/">first-generation college graduate</a>. I really like my job.
+As an Associate Professor at the University of California, Riverside, I serve as the Program Director of our APA-accredited and NASP-approved <a href="https://education.ucr.edu/school-psychology">School Psychology program</a>. I received my PhD in Educational Psychology (with a concentration in School Psychology) from the University of Connecticut in 2014. Back in 2007, I graduated summa cum laude with my Bachelor's in Psychology from the University of Arizona. After serving as a Postdoctoral Research Fellow and Project Manager with the IES-funded <a href="http://needs2.education.uconn.edu/">NEEDs2 project</a> from 2014-2015, I joined the Graduate School of Education at the University of California, Riverside. At UCR, I teach undergraduate- and graduate-level courses in behavior assessment and intervention, research, and methodology. I'm a <a href="https://firstgen.ucr.edu/">first-generation college graduate</a>. I really like my job.
 
-I'm an Associate Editor for the Journal of School Psychology, as well as a licensed psychologist in the state of California (CA #29540) and a Board Certified Behavior Analyst (Certification #1-15-18892).
+I'm an Associate Editor for the Journal of School Psychology, as well as a licensed psychologist in the state of California (CA #29540) and a Board Certified Behavior Analyst (Certification #1-15-18892). You can request copies of articles through <a href="https://www.researchgate.net/profile/Austin_Johnson2">ResearchGate</a>, view citations and such on <a href="https://scholar.google.com/citations?user=XQ7qJWwAAAAJ&amp;hl=en">Google Scholar</a>, and download data and project materials from <a href="https://osf.io/wp2u4/">Open Science Framework</a>.
 
-You can request copies of articles through <a href="https://www.researchgate.net/profile/Austin_Johnson2">ResearchGate</a>, view citations and such on <a href="https://scholar.google.com/citations?user=XQ7qJWwAAAAJ&amp;hl=en">Google Scholar</a>, and download data and project materials from <a href="https://osf.io/wp2u4/">Open Science Framework</a>.
+Outside of work, I host a weekly radio show called the <a href = "https://www.quadraphonic.org">Quadraphonic Rock Block</a> on UCR's campus radio station <a href = "https://www.kucr.org">KUCR</a>, hang out with my family, drink coffee, and am a very mediocre climber.
