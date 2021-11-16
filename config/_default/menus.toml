@@ -9,11 +9,6 @@
   weight = 10
 
 [[main]]
-  name = "Why?"
-  url = "#why"
-  weight = 20
-
-[[main]]
   name = "Papers"
   url = "#featured"
   weight = 30
