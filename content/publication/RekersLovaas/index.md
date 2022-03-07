@@ -1,10 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Social Significance and the Centrality of Human Beings: A Response to “Editor’s Note: Societal changes and expression of concern about Rekers and Lovaas’ (1974) Behavioral Treatment of Deviant Sex-Role Behaviors in a Male Child”"
+title: "The weight of harm: A response to “Editor’s Note: Societal changes and expression of concern about Rekers and Lovaas’ (1974) Behavioral Treatment of Deviant Sex-Role Behaviors in a Male Child”"
 authors:
 - Austin H Johnson
-date: 2020-11-26T17:59:54-08:00
+date: 2022-03-03T17:59:54-08:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -20,7 +20,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: "In 1974, Rekers and Lovaas published an article in the Journal of Applied Behavior Analysis (JABA) wherein the authors coached a child’s parents to ignore and physically abuse that child when he engaged in gender-non-conforming behaviors. In October 2020, the Society for the Experimental Analysis of Behavior (SEAB) and JABA’s editor-in-chief Dr. Linda LeBlanc published a Statement of Concern regarding Rekers and Lovaas (1974), which described concerns regarding the paper and then provided justification for the journal’s decision to not retract this paper. In this current response, I articulate criticisms of JABA’s rationale for not retracting this paper. I acknowledge the ambiguity in the evidence available regarding a determination of ethical conduct, and end with an argument that Rekers and Lovaas (1974) should be retracted."
+abstract: "In 1974, Rekers and Lovaas published an article in the Journal of Applied Behavior Analysis (JABA) wherein the authors coached a 4 year old child's parents to ignore and physically abuse him when he engaged in behaviors that were identified by the authors as inappropriate for a child whose sex assigned at birth was male. In October 2020, a Statement of Concern regarding Rekers and Lovaas (1974) was published in JABA (SEAB & LeBlanc, 2020) which described concerns regarding the paper and then provided justification for the journal's decision to not retract this paper. In this current response, I provide a counterpoint to the Statement of Concern, arguing that (a) the available evidence strongly suggests that the original study was unethical and misaligned with the principles of ABA, and (b) the evidence presented to support its contemporaneous ethicality is insufficient. I end with an argument that Rekers and Lovaas (1974) should be retracted and discuss the critical role of ethics and social significance for the field of ABA."
 
 # Summary. An optional shortened abstract.
 summary: ""

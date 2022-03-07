@@ -14,16 +14,6 @@
   weight = 30
 
 [[main]]
-  name = "Talks"
-  url = "#talks"
-  weight = 40
-
-[[main]]
-  name = "Lab"
-  url = "#lab"
-  weight = 60
-
-[[main]]
   name = "Contact"
   url = "#contact"
   weight = 70
@@ -32,5 +22,5 @@
 # To enable, copy your resume/CV to `static/media/cv.pdf` and uncomment the lines below.
 [[main]]
    name = "CV"
-   url = "https://drive.google.com/file/d/1AsW1Iw0VngBHOtBb8FpGzf2UUVJYVjjB/view?usp=sharing"
+   url = "https://profiles.ucr.edu/api/CvAttachment/2383988"
    weight = 100

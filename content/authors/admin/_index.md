@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Austin Johnson
+title: Austin Johnson (he/him)
 
 # Is this the primary user of the site?
 superuser: true
@@ -43,7 +43,7 @@ social:
   link: https://twitter.com/johnsonaustinh
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=XQ7qJWwAAAAJ
+  link: https://scholar.google.com/citations?user=XQ7qJWwAAAAJ
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Austin_Johnson2
@@ -55,7 +55,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: https://drive.google.com/file/d/1AsW1Iw0VngBHOtBb8FpGzf2UUVJYVjjB/view?usp=sharing
+  link: https://profiles.ucr.edu/api/CvAttachment/2383988
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,7 +70,7 @@ user_groups:
 ---
 
 {{% callout note %}}
-For more information on [JABA's decision](https://doi.org/10.1002/jaba.768) to not retract Rekers and Lovaas (1974), check out [Retract Hate](https://www.retracthate.com), click [here](https://edarxiv.org/w96u5/) for a critical preprint, [here](https://anchor.fm/beautiful-humans/episodes/Ep-30-Retract-Rekers-and-Lovaas1974-with-Dr--Austin-Johnson-emtvna) for a relevant Beautiful Humans podcast, and [here](https://www.change.org/p/dr-linda-leblanc-and-the-society-for-the-experimental-analysis-of-behavior-make-no-mistake-a-call-for-the-official-retraction-of-rekers-lovaas-1974) for a change.org petition. I presented on Rekers and Lovaas (1974) at [ABAI 2021](https://www.abainternational.org/events/annual/annual2021/convention-home.aspx).
+For more information on [JABA's decision](https://doi.org/10.1002/jaba.768) to not retract Rekers and Lovaas (1974), check out [Retract Hate](https://www.retracthate.com), click [here](https://edarxiv.org/w96u5/) for a critical preprint forthcoming in *Behavior Analysis in Practice*, and [here](https://anchor.fm/beautiful-humans/episodes/Ep-30-Retract-Rekers-and-Lovaas1974-with-Dr--Austin-Johnson-emtvna) for a relevant Beautiful Humans podcast. I presented on Rekers and Lovaas (1974) at [ABAI 2021](https://www.abainternational.org/events/annual/annual2021/convention-home.aspx).
 {{% /callout %}}
 
 As an Associate Professor at the University of California, Riverside, I serve as the Program Director of our APA-accredited and NASP-approved <a href="https://education.ucr.edu/school-psychology">School Psychology program</a>. I received my PhD in Educational Psychology (with a concentration in School Psychology) from the University of Connecticut in 2014. Back in 2007, I graduated summa cum laude with my Bachelor's in Psychology from the University of Arizona. After serving as a Postdoctoral Research Fellow and Project Manager with the IES-funded <a href="http://needs2.education.uconn.edu/">NEEDs2 project</a> from 2014-2015, I joined the Graduate School of Education at the University of California, Riverside. At UCR, I teach undergraduate- and graduate-level courses in behavior assessment and intervention, research, and methodology. I'm a <a href="https://firstgen.ucr.edu/">first-generation college graduate</a>. I really like my job.
